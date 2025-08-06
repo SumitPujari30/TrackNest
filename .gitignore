@@ -1,0 +1,26 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.*.local
+
+# Node modules (just in case)
+node_modules/
+
+# Build artifacts (if built from root someday)
+dist/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Yarn/PM tools
+.yarn/
+.pnpm-debug.log*
